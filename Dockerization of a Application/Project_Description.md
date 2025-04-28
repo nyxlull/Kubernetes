@@ -10,7 +10,7 @@ A simple Flask-based REST API that returns a random inspirational quote when you
 
 - Showcase a clean and minimal Python/Flask app for containerization.
 - Dockerize the app using multi-stage builds.
-- Push and pull the Docker image using DockerHub.
+- Push and pull the Docker image using DockerHub. (T0 BE COMPLETED)
 - Demonstrate understanding of Docker architecture and image optimization.
 
 ---
